@@ -18,7 +18,6 @@ const VisionMissionModern = () => {
       <div className="absolute bg-[#00000000] inset-0 z-0"></div>
 
 
-      {/* Content */}
       <div className="relative z-10 max-w-6xl mx-auto px-6 py-10 md:py-16 space-y-20 text-center">
         {/* Mission */}
         <div className="space-y-6">
